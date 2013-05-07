@@ -1,6 +1,6 @@
 # Parosm
 
-TODO: Write a gem description
+Simple OSM parser. Extracted from (Mormon)[https://github.com/geronimod/mormon] to reuse. It include nodes, ways and simple routing information between nodes.
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+loader = Parosm::Loader.new spec__osm__file
+
 
 ## Contributing
 
@@ -27,3 +28,7 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+See (LICENSE.txt)[LICENSE.txt]
