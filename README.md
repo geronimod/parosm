@@ -1,6 +1,6 @@
 # Parosm
 
-Simple OSM parser. Extracted from (Mormon)[https://github.com/geronimod/mormon] to reuse. It include nodes, ways and simple routing information between nodes.
+Simple OSM parser. Extracted from [Mormon](https://github.com/geronimod/mormon) to reuse. It include nodes, ways and simple routing information between nodes.
 
 ## Installation
 
@@ -31,4 +31,4 @@ loader = Parosm::Loader.new spec__osm__file
 
 ## License
 
-See (LICENSE.txt)[LICENSE.txt]
+See [LICENSE.txt](LICENSE.txt)
