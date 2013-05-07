@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-loader = Parosm::Loader.new spec__osm__file
+loader = Parosm::Loader.new osm_file
 
 
 ## Contributing
