@@ -20,6 +20,7 @@ Gem::Specification.new do |gem|
   gem.rubyforge_project = "parosm"
   
   gem.add_dependency "nokogiri"
+  gem.add_dependency "pg"
   gem.add_development_dependency "rspec"
 
 end
